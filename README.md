@@ -33,7 +33,7 @@ Installation et utilisation
 
 Cloner le projet
 
-git clone <URL-du-projet>
+git clone[ <URL-du-projet>](https://github.com/Mohamedtr02/metroci)
 
 
 Interface PHP (achat du ticket)
